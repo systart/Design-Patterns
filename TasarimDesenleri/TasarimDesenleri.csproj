@@ -74,6 +74,12 @@
     <Compile Include="GoFPatterns\StructuralClasses\BridgeExample\StackFifo.cs" />
     <Compile Include="GoFPatterns\StructuralClasses\BridgeExample\StackHanoi.cs" />
     <Compile Include="GoFPatterns\StructuralClasses\BridgeExample\StackList.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Implementations\A.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Implementations\Decorator.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Implementations\X.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Implementations\Y.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Implementations\Z.cs" />
+    <Compile Include="GoFPatterns\StructuralClasses\DecoratorExample\Interfacces\IDecoratorInterface.cs" />
     <Compile Include="GoFPatterns\StructuralClasses\FacadeExample\Line.cs" />
     <Compile Include="GoFPatterns\StructuralClasses\FacadeExample\Point.cs" />
     <Compile Include="GoFPatterns\StructuralClasses\FacadeExample\PointCartesian.cs" />
@@ -98,7 +104,6 @@
     <Folder Include="GoFPatterns\BehavioralClasses\TemplateMethodExample\" />
     <Folder Include="GoFPatterns\BehavioralClasses\VisitorExample\" />
     <Folder Include="GoFPatterns\StructuralClasses\CompositeExample\" />
-    <Folder Include="GoFPatterns\StructuralClasses\DecoratorExample\" />
     <Folder Include="GoFPatterns\StructuralClasses\FlyweightExample\" />
     <Folder Include="GoFPatterns\StructuralClasses\ProxyExample\" />
   </ItemGroup>

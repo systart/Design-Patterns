@@ -14,6 +14,8 @@ using TasarimDesenleri.GoFPatterns.CreationalClasses.SingletonExample;
 using TasarimDesenleri.GoFPatterns.StructuralClasses.AdapterExample.Implementations;
 using TasarimDesenleri.GoFPatterns.StructuralClasses.AdapterExample.Interfaces;
 using TasarimDesenleri.GoFPatterns.StructuralClasses.BridgeExample;
+using TasarimDesenleri.GoFPatterns.StructuralClasses.DecoratorExample.Implementations;
+using TasarimDesenleri.GoFPatterns.StructuralClasses.DecoratorExample.Interfacces;
 using TasarimDesenleri.GoFPatterns.StructuralClasses.FacadeExample;
 
 namespace TasarimDesenleri
@@ -164,6 +166,18 @@ namespace TasarimDesenleri
             }
             Console.WriteLine();
             Console.WriteLine("total rejected is " + ((StackHanoi)stacks[2]).reportRejected());
+            */
+            #endregion
+
+            #region DecoratorClassExample
+            /*
+            IDecoratorInterface[] array = {new X(new A()), new Y(new X(new A())),
+                new Z(new Y(new X(new A())))};
+            foreach (IDecoratorInterface anArray in array)
+            {
+                anArray.DoIt();
+                Console.Write("  ");
+            }
             */
             #endregion
 
