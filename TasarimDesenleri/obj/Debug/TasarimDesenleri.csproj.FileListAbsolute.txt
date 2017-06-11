@@ -1,0 +1,8 @@
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\bin\Debug\TasarimDesenleri.exe.config
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\bin\Debug\TasarimDesenleri.exe
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\bin\Debug\TasarimDesenleri.pdb
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\bin\Debug\ThirdPartyLogSystem.dll
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\bin\Debug\ThirdPartyLogSystem.pdb
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\obj\Debug\TasarimDesenleri.csprojResolveAssemblyReference.cache
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\obj\Debug\TasarimDesenleri.exe
+C:\Users\zanzara\Documents\git-projects\Design-Patterns\TasarimDesenleri\obj\Debug\TasarimDesenleri.pdb
